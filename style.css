@@ -1,0 +1,21 @@
+.heading{
+    font-size: 30px;
+}
+.anchor1{
+    font-size: 20px;
+    font-family: fantasy;
+}
+.anchor2{
+    font-size: 20px;
+    font-family: cursive;
+}
+#footer{
+    width: 100%;
+    position: absolute;
+    background-color: azure;
+    color: blue;
+    font-size: 20px;
+}
+body{
+    background-image: -webkit-radial-gradient(blue,skyblue,aqua,green,lime,yellowgreen,yellow,orange,tomato,crimson);
+}
